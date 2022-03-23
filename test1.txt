@@ -1,2 +1,2 @@
 this is test1 file....this is mithun banerjee....now i'm practicing git and github....git and github is very important for a software developer..
-logo allignment issue is solved.now the logo is centerd.
+this is text from master branch.
