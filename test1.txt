@@ -1,3 +1,5 @@
-this is test1 file....this is mithun banerjee....now i'm practicing git and github....git and github is very important for a software developer..
-this is text from master branch.
-this is the 3rd lin from master branch
+
+this is test1 file....this is mithun banerjee....now i'm practicing git and github....git and github is very important for a software developer
+this is text file from feature
+this is the 3rd line from feature branch
+
